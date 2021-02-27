@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ConsoleIO_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ConsoleIO/out/artifacts/ConsoleIO_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../ConsoleIO/out/artifacts/ConsoleIO_jar" recursive="false" />
+  </library>
+</component>
